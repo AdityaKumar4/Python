@@ -1,15 +1,12 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&psig=AOvVaw3FKcAaFefLQINbKkjBm302&ust=1595444112024000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD-29GC3-oCFQAAAAAdAAAAABAD" title="Python">
+<img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions">
 # Python
 
 > Daily Practice, assignments and mini-projects goes here...
 
 ***This course include:***
-- Data types
-- Operators
+- Data types and operators
 - Boolean Opeartors
-- Functions
-- Methods
+- Methods and Functions
 - Object Oriented Programming
-- Erroe and exception handling
-- Decorators
-- Generators
+- Error and exception handling
+- Decorators and Generators
