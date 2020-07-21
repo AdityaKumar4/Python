@@ -1,4 +1,4 @@
-<img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions">
+<img src="https://github.com/AdityaKumar4/Python/blob/master/Python%20Assignments/python%20logo.png" width="500" height="200">
 # Python
 
 > Daily Practice, assignments and mini-projects goes here...
